@@ -31,8 +31,8 @@
 |--------------------------|--------------------------|--------------------------|--------------------------|
 | <img src="https://github.com/user-attachments/assets/150d9859-1c61-4d2a-bf32-27f6641b7a30" width="200" style="display: block; margin: 0 auto;"> | <img src="https://github.com/nasilKiM/nasilKiM/assets/117559842/3ed5467c-e7ec-48d9-b4f8-d03e6a034815" width="200" style="display: block; margin: 0 auto;"> | <img src="https://github.com/user-attachments/assets/a84e6cdd-7b4b-442b-a17f-c661c0eddad0" width="150" style="display: block; margin: 0 auto;"> | <img src="https://github.com/user-attachments/assets/88c05884-2774-42c0-81f7-8afc9835146f" width="200" style="display: block; margin: 0 auto;"> |
 | 특수 동물 케어 서비스 | 중고 거래 및 무료나눔 커머스 플랫폼    |  게임 내 악성 유저 찾기 서비스   | 주식 투자 성향 테스트 서비     |
-| [배포 링크](https://acare-dr.vercel.app/)   |   | [배포 링크](https://zoopzoop-market.vercel.app/)     | [배포 링크](https://trolltime.vercel.app/)     |
-| [깃허브 링크](https://github.com/mobi-community/mobi-1th-tramory) | [깃허브 링크](https://github.com/nasilKiM/Banuddy-project) | [깃허브 링크](https://github.com/nasilKiM/React_ZoopZoopMarket) | [깃허브 링크](https://github.com/nasilKiM/React_MovieTrailer) |
+| [배포 링크](https://acare-dr.vercel.app/)   |  [배포 링크](https://zoopzoop-market.vercel.app/)  |  [배포 링크](https://trolltime.vercel.app/)     |    |
+| [깃허브 링크](https://github.com/orgs/hoseo-cs/repositories) | [깃허브 링크](https://github.com/nasilKiM/Banuddy-project) | [깃허브 링크](https://github.com/Frontend-TEAM1/ZoopzoopMarket) | [깃허브 링크](https://github.com/HackerTon-team4/Front) |
 
 <br/>
 
